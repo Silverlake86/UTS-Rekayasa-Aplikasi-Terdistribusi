@@ -3,7 +3,7 @@ import select
 import errno
 import sys
 
-HEADER_LENGTH = 10
+HEADER_LENGTH = 20
 
 #IP = "127.0.0.1"   #Local Host IP
 #PORT = 1234        #Local Host Port
