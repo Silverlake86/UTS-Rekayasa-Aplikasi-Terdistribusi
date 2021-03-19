@@ -2,7 +2,7 @@ import socket
 import select
 
 
-HEADER_LENGTH = 10
+HEADER_LENGTH = 20
 #IP = "127.0.0.1" #Local Host IP
 #PORT = 1234      #Loca Host PORT
 IP = "192.168.1.7"
